@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T08:55:29.809Z",
+  "generated_at": "2026-10-09T08:55:31.658Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -104,6 +104,123 @@
       "last_pushed_at": "2025-06-14T21:07:57.675Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2025-06-15T20:43:19.938Z",
+      "last_pushed_at": "2025-06-15T20:43:19.938Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2025-06-15T20:56:58.985Z",
+      "last_pushed_at": "2025-06-15T20:56:58.985Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2025-06-15T20:58:24.143Z",
+      "last_pushed_at": "2025-06-15T20:58:24.143Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2025-06-15T21:23:38.317Z",
+      "last_pushed_at": "2025-06-15T21:23:38.317Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2025-06-15T22:22:23.136Z",
+      "last_pushed_at": "2025-06-15T22:22:23.136Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2025-06-15T23:02:02.616Z",
+      "last_pushed_at": "2025-06-15T23:02:02.616Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2025-06-15T23:03:49.293Z",
+      "last_pushed_at": "2025-06-15T23:03:49.293Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2025-06-15T23:11:59.804Z",
+      "last_pushed_at": "2025-06-15T23:11:59.804Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2025-06-15T23:30:34.692Z",
+      "last_pushed_at": "2025-06-15T23:30:34.692Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
