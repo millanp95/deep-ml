@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T08:55:33.767Z",
+  "generated_at": "2026-10-09T08:55:35.553Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -234,6 +234,45 @@
       "last_pushed_at": "2026-05-12T21:35:07.373Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-05-14T14:24:17.211Z",
+      "last_pushed_at": "2026-05-14T14:24:17.211Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-05-14T14:46:07.466Z",
+      "last_pushed_at": "2026-05-14T14:46:07.466Z",
+      "language": "python",
+      "lines": 23
+    },
+    "lab:10": {
+      "kind": "lab",
+      "id": "10",
+      "title": "Design Your Own Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Attention & Transformers",
+      "url": "https://www.deep-ml.com/labs/10",
+      "path": "labs/0010-design-your-own-attention-mechanism",
+      "first_solved_at": "2026-05-14T15:35:08.137Z",
+      "last_pushed_at": "2026-05-14T15:35:08.137Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }

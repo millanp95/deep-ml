@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 18 problems · 0 labs · 0 math
+**21** solved · 20 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2025-06-15 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2025-06-15 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-05-20 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-05-14 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2025-06-15 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2025-02-06 | [solution](problems/0016-feature-scaling-implementation) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-06-14 | [solution](problems/0015-linear-regression-using-gradient-descent) |
@@ -30,6 +31,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-06-15 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-05-12 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-06-15 | [solution](problems/0007-matrix-transformation) |
+| [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-05-14 | [solution](problems/0309-product-rule-for-derivatives) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Design Your Own Attention Mechanism](https://www.deep-ml.com/labs/10) | medium | 2026-05-14 | [solution](labs/0010-design-your-own-attention-mechanism) |
 
 ---
 
