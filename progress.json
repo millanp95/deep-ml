@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T08:55:41.042Z",
+  "generated_at": "2026-10-09T08:55:42.977Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -332,6 +332,30 @@
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-09-02T15:12:36.972Z",
       "last_pushed_at": "2026-09-02T15:12:36.972Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-09-16T21:22:02.914Z",
+      "last_pushed_at": "2026-09-16T21:22:02.914Z"
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-09-16T21:23:26.119Z",
+      "last_pushed_at": "2026-09-16T21:23:26.119Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
