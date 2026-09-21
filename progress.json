@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T08:55:42.977Z",
+  "generated_at": "2026-10-09T08:55:45.163Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -356,6 +356,56 @@
       "last_pushed_at": "2026-09-16T21:23:26.119Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-09-21T11:02:42.544Z",
+      "last_pushed_at": "2026-09-21T11:02:42.544Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-09-21T11:22:38.846Z",
+      "last_pushed_at": "2026-09-21T11:22:38.846Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-09-21T11:25:56.634Z",
+      "last_pushed_at": "2026-09-21T11:25:56.634Z",
+      "language": "python",
+      "lines": 12
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-21T19:27:56.021Z",
+      "last_pushed_at": "2026-09-21T19:27:56.021Z"
     }
   }
 }
