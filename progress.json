@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:27:13.777Z",
+  "generated_at": "2026-10-09T09:32:25.531Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -577,6 +577,19 @@
       "path": "problems/1058-random-train-validation-test-split-with-shuffling",
       "first_solved_at": "2026-10-09T09:19:26.010Z",
       "last_pushed_at": "2026-10-09T09:19:26.010Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:842": {
+      "kind": "problem",
+      "id": "842",
+      "title": "StandardScaler Fit and Transform",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/842",
+      "path": "problems/0842-standardscaler-fit-and-transform",
+      "first_solved_at": "2026-10-09T09:32:24.974Z",
+      "last_pushed_at": "2026-10-09T09:32:24.974Z",
       "language": "python",
       "lines": 12
     }
