@@ -5,4 +5,4 @@ def matrix_dot_vector(a: list[list[int|float]], b: list[int|float]) -> list[int|
     if m != len(b):
         return -1
 
-    return [ sum([a[i][j] * b[j] for j in range(m)]) for i in range(n)]
+    return [sum([a[i][j] * b[j] for j in range(m)]) for i in range(n)]
